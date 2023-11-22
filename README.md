@@ -24,14 +24,13 @@ If your README is long, add a table of contents to make it easy for users to fin
 The first thing you want to do when opening the application is to login so you can post and comment on images. Once logged in you can scroll through the home page and see everyones post and when you want to post all you need to do is go to your profile and drag and drop and image.
 
 ## Screenshots
+![Screenshot 2023-11-22 at 2 30 51 PM 3](https://github.com/RhettRoseman/mr-bigfoot/assets/140462841/48fef9ac-6841-48ed-9916-f3e95d51eda6)
 
-![alt text]()
+![Screenshot 2023-11-22 at 2 32 19 PM 2](https://github.com/RhettRoseman/mr-bigfoot/assets/140462841/63a34ce4-cc8a-4bd8-97c6-562a669904d9)
 
-![alt text]()
 
-![alt text]()
+![Screenshot 2023-11-22 at 2 32 59 PM 2](https://github.com/RhettRoseman/mr-bigfoot/assets/140462841/2f12c607-3dd0-4cc3-b858-69fd8cfc13e3)
 
-![alt text]()
 
 ## Links
 
