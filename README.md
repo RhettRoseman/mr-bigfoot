@@ -37,7 +37,7 @@ The first thing you want to do when opening the application is to login so you c
 
 Github: https://github.com/RhettRoseman/mr-bigfoot
 
-Deployed:
+Deployed: https://young-taiga-89774-05e7e715ff33.herokuapp.com/photos
 
 ## Credits
 
